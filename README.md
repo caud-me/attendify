@@ -1,5 +1,6 @@
 # Attendify
 Version 0.1.7
+
 Online based attendance system
 
 ## How to use?
@@ -11,7 +12,9 @@ You need
   - mysql2
   - bodyparser
   - ws
+    
 once installed, type in the terminal in VSCode:
+
 ```node server.js```
 to test the effectiveness modify the `data.json` and the website should update in real-time.
 
