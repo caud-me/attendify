@@ -1,4 +1,5 @@
 # Attendify
+Version 0.1.7
 Online based attendance system
 
 ## How to use?
@@ -10,3 +11,6 @@ You need
   - mysql2
   - bodyparser
   - ws
+
+## Developer logs
+almost working na, kaipuhan nalang i refactor ang code (atm magulo)
