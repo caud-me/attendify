@@ -12,6 +12,9 @@ You need
   - mysql2
   - bodyparser
   - ws
+ 
+how to install dependencies:
+```npm install [dependencies]```
     
 once installed, type in the terminal in VSCode: `node server.js`
 
