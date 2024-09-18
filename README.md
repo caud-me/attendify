@@ -18,6 +18,7 @@ once installed, type in the terminal in VSCode: `node server.js`
 to test the effectiveness, of student scanning. modify the `data.json` and the website should update in real-time.
 
 # ⚠ Note the server.js time and date is purposely hardcoded, you can modify it to test the effectiveness of attendance tracking!
+# Please ensure your database name is attendance_system
 
 ## Developer logs
 almost working na, kaipuhan nalang i refactor ang code (atm magulo)
