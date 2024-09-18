@@ -13,10 +13,9 @@ You need
   - bodyparser
   - ws
     
-once installed, type in the terminal in VSCode:
+once installed, type in the terminal in VSCode: `node server.js`
 
-```node server.js```
-to test the effectiveness modify the `data.json` and the website should update in real-time.
+to test the effectiveness, of student scanning. modify the `data.json` and the website should update in real-time.
 
 # ⚠ Note the server.js time and date is purposely hardcoded, you can modify it to test the effectiveness of attendance tracking!
 
